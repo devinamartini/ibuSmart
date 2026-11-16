@@ -1,0 +1,12 @@
+{"teks": "jual janur lima ikat lima puluh ribu", "harapan": {"tipe": "pemasukan", "barang": "janur", "satuan": "ikat", "jumlah": 5, "nominal": 50000}}
+{"teks": "beli bunga sepuluh ikat seratus ribu", "harapan": {"tipe": "pengeluaran", "barang": "bunga", "satuan": "ikat", "jumlah": 10, "nominal": 100000}}
+{"teks": "terjual canang dua puluh biji dua puluh lima ribu rupiah", "harapan": {"tipe": "pemasukan", "barang": "canang", "satuan": "biji", "jumlah": 20, "nominal": 25000}}
+{"teks": "beli jeruk tiga kilo seratus lima puluh ribu", "harapan": {"tipe": "pengeluaran", "barang": "jeruk", "satuan": "kilo", "jumlah": 3, "nominal": 150000}}
+{"teks": "jual pisang dua sisir tiga puluh ribu", "harapan": {"tipe": "pemasukan", "barang": "pisang", "satuan": "sisir", "jumlah": 2, "nominal": 30000}}
+{"teks": "beli janur dua puluh ikat dua ratus ribu", "harapan": {"tipe": "pengeluaran", "barang": "janur", "satuan": "ikat", "jumlah": 20, "nominal": 200000}}
+{"teks": "laku kelapa lima butir empat puluh ribu", "harapan": {"tipe": "pemasukan", "barang": "kelapa", "satuan": "butir", "jumlah": 5, "nominal": 40000}}
+{"teks": "beli beras lima kilo enam puluh dua ribu lima ratus", "harapan": {"tipe": "pengeluaran", "barang": "beras", "satuan": "kilo", "jumlah": 5, "nominal": 62500}}
+{"teks": "jual telur dua lusin seratus ribu", "harapan": {"tipe": "pemasukan", "barang": "telur", "satuan": "lusin", "jumlah": 2, "nominal": 100000}}
+{"teks": "jual dupa tiga bungkus", "harapan": {"tipe": "pemasukan", "barang": "dupa", "satuan": "bungkus", "jumlah": 3, "nominal": null}}
+{"teks": "pembeli bayar tujuh puluh ribu untuk bunga pacah empat ikat", "harapan": {"tipe": "pemasukan", "barang": "bunga pacah", "satuan": "ikat", "jumlah": 4, "nominal": 70000}}
+{"teks": "beli plastik satu pak sepuluh ribu", "harapan": {"tipe": "pengeluaran", "barang": "plastik", "satuan": "pak", "jumlah": 1, "nominal": 10000}}
